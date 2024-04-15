@@ -7,7 +7,7 @@ This project is inspired by the recent [video](https://www.youtube.com/watch?v=s
 
 | Pattern | Notebook |
 | ------- | -------- |
-| Reflection | [01.Reflection.ipynb]() |
+| Reflection | [01.Reflection.ipynb](https://github.com/jjovalle99/agentic-design-patterns/blob/a1a7e3eab50799b5955d1eb1ec296550b0494c34/01.Reflection.ipynb) |
 | Tool use | Coming Soon |
 | Planning | Coming Soon |
 | Multi-agent collaboration | Coming Soon |
