@@ -17,6 +17,7 @@ ipykernel = "^6.29.4"
 ipywidgets = "^8.1.2"
 python-dotenv = "^1.0.1"
 pygraphviz = "^1.12"
+ruff = "^0.4.1"
 
 
 [tool.poetry.group.llama3.dependencies]
