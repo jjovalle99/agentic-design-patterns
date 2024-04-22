@@ -40,3 +40,11 @@ serve-llama8:
 serve-llama70:
 	$(MAKE) llama70-ct
 	poetry run modal serve llama3/serve.py
+
+deploy-llama8:
+	$(MAKE) llama8-ct
+	poetry run modal deploy llama3/serve.py
+
+deploy-llama70:
+	$(MAKE) llama70-ct
+	poetry run modal deploy llama3/serve.py
